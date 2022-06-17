@@ -1,0 +1,2 @@
+[28-Aug-2021 13:09:35 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home/pentagoninfosys/public_html/atbsdemo/app/Http/Controllers/UserController.php on line 14
+[01-Sep-2021 07:32:15 UTC] PHP Fatal error:  Cannot use [] for reading in /home/pentagoninfosys/public_html/atbsdemo/storage/framework/views/0ed4df66285b7f516680b223a3e0e2c9f341a029.php on line 265
